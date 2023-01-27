@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://matthewljones.github.io/nescioquid/sitemap.xml
