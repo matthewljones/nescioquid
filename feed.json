@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Matthew L. Jones",
     "description": "",
-    "home_page_url": "https://matthewljones.github.io/nescioquid",
-    "feed_url": "https://matthewljones.github.io/nescioquid/feed.json",
+    "home_page_url": "https://www.nescioquid.org",
+    "feed_url": "https://www.nescioquid.org/feed.json",
     "user_comment": "",
     "author": {
         "name": "Matthew L. Jones"
     },
     "items": [
         {
-            "id": "https://matthewljones.github.io/nescioquid/how-data-happened.html",
-            "url": "https://matthewljones.github.io/nescioquid/how-data-happened.html",
+            "id": "https://www.nescioquid.org/how-data-happened.html",
+            "url": "https://www.nescioquid.org/how-data-happened.html",
             "title": "How Data Happened",
             "summary": "A sweeping history of data and its technical, political, and ethical impact on our world.&nbsp; **Top 10 Science Books of Spring 2023**—Publishers Weekly \"Trenchant and successfully illuminates the contingency of data’s privileged place in modern decision-making. Incisive and thoroughly researched, this one's a winner.\" —Publishers&hellip;",
             "content_html": "\n  <p>\n    A sweeping history of data and its technical, political, and ethical impact on our world.&nbsp;\n  </p>\n\n  <p>\n    **Top 10 Science Books of Spring 2023**—Publishers Weekly\n  </p>\n\n  <p>\n    \"Trenchant and successfully illuminates the contingency of data’s privileged place in modern decision-making. Incisive and thoroughly researched, this one's a winner.\" —Publishers Weekly<br><br>\n  </p>\n\n  <p>\n    \"This is the first comprehensive look at the history of data and how power has played a critical role in shaping the history. It’s a must read for any data scientist about how we got here and what we need to do to ensure that data works for everyone.\" —DJ Patil, former U.S. Chief Data Scientist<br><br>\n  </p>\n<div><p><a href=\"https://www.amazon.com/How-Data-Happened-History-Algorithms/dp/1324006730/\">Amazon</a></p>\n<p><a href=\"https://www.barnesandnoble.com/w/how-data-happened-chris-wiggins/1141651636\">Barnes & Noble</a></p>\n<p><a href=\"https://www.bookculture.com/book/9781324006732\">Book Culture</a></p>\n\n</div>\n\n  <p>\n    \"In a tour de force, Wiggins and Jones put data in context so that we can see the values, politics, and controversies that shape our present reality. This book is truly a semester-long class bottled into a narrative fit for vacation.\"—danah boyd<br><br>    \"Sometimes the best way to understand the present and prepare for the future is to look to the past. This insight is at the core of How Data Happened, an ambitious and thoughtful work … that will reshape how you will see the relationship between data and society.\"—Matthew J. Salganik<br><br>    \"Ambitious and bold.… A must-read for everyone interested in how data is changing our lives.\"—Gina Neff<br><br>    \"An essential, authoritative history of the increasing power of data, how new capabilities have transformed society, and what we must do to ensure that today’s technology reflects our norms and values.\"—Renee DiResta<br><br>\"An informative dive into the history of statistics and data, providing context for the debate over information and who controls it.\"—Kirkus Reviews<br><br>\n  </p>",
-            "image": "https://matthewljones.github.io/nescioquid/media/posts/9/Screenshot-2023-01-26-at-11.39.06-PM.png",
+            "image": "https://www.nescioquid.org/media/posts/9/Screenshot-2023-01-26-at-11.39.06-PM.png",
             "author": {
                 "name": "Matthew L. Jones"
             },
@@ -25,12 +25,12 @@
             "date_modified": "2023-01-29T01:03:31-05:00"
         },
         {
-            "id": "https://matthewljones.github.io/nescioquid/collaboration.html",
-            "url": "https://matthewljones.github.io/nescioquid/collaboration.html",
+            "id": "https://www.nescioquid.org/collaboration.html",
+            "url": "https://www.nescioquid.org/collaboration.html",
             "title": "Collaboration",
             "summary": "Histories of AI: A Genealogy of Power (Mellon-Sawyer) toward a history of artificial intelligence (Columbia Workshop Data: Past, Present, & Future",
-            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://matthewljones.github.io/nescioquid/media/posts/8/gallery/Screenshot-2023-01-24-at-8.26.49-PM.png\" data-size=\"1220x2042\">\n        <img loading=\"lazy\" src=\"https://matthewljones.github.io/nescioquid/media/posts/8/gallery/Screenshot-2023-01-24-at-8.26.49-PM-thumbnail.png\" height=\"1205\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Histories of AI: A Genealogy of Power (Mellon-Sawyer)</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://matthewljones.github.io/nescioquid/media/posts/8/gallery/1105208293172174848-D1Z81OTX4AE-Hbt.jpg\" data-size=\"740x552\">\n        <img loading=\"lazy\" src=\"https://matthewljones.github.io/nescioquid/media/posts/8/gallery/1105208293172174848-D1Z81OTX4AE-Hbt-thumbnail.jpg\" height=\"537\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>toward a history of artificial intelligence (Columbia Workshop</figcaption>\n    </figure>\n    </div>\n  </div>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"1\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://matthewljones.github.io/nescioquid/media/posts/8/gallery/Screenshot-2023-01-24-at-9.06.55-PM.png\" data-size=\"1008x1086\">\n        <img loading=\"lazy\" src=\"https://matthewljones.github.io/nescioquid/media/posts/8/gallery/Screenshot-2023-01-24-at-9.06.55-PM-thumbnail.png\" height=\"776\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Data: Past, Present, & Future</figcaption>\n    </figure>\n    </div>\n  </div>",
-            "image": "https://matthewljones.github.io/nescioquid/media/posts/8/radio-nets.jpg",
+            "content_html": "\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/8/gallery/Screenshot-2023-01-24-at-8.26.49-PM.png\" data-size=\"1220x2042\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/8/gallery/Screenshot-2023-01-24-at-8.26.49-PM-thumbnail.png\" height=\"1205\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Histories of AI: A Genealogy of Power (Mellon-Sawyer)</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/8/gallery/1105208293172174848-D1Z81OTX4AE-Hbt.jpg\" data-size=\"740x552\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/8/gallery/1105208293172174848-D1Z81OTX4AE-Hbt-thumbnail.jpg\" height=\"537\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>toward a history of artificial intelligence (Columbia Workshop</figcaption>\n    </figure>\n    </div>\n  </div>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"1\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/8/gallery/Screenshot-2023-01-24-at-9.06.55-PM.png\" data-size=\"1008x1086\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/8/gallery/Screenshot-2023-01-24-at-9.06.55-PM-thumbnail.png\" height=\"776\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Data: Past, Present, & Future</figcaption>\n    </figure>\n    </div>\n  </div>",
+            "image": "https://www.nescioquid.org/media/posts/8/radio-nets.jpg",
             "author": {
                 "name": "Matthew L. Jones"
             },
@@ -40,12 +40,12 @@
             "date_modified": "2023-01-24T23:48:44-05:00"
         },
         {
-            "id": "https://matthewljones.github.io/nescioquid/books.html",
-            "url": "https://matthewljones.github.io/nescioquid/books.html",
+            "id": "https://www.nescioquid.org/books.html",
+            "url": "https://www.nescioquid.org/books.html",
             "title": "Books",
             "summary": "The Good Life in the Scientific Revolution: Descartes, Pascal, Leibniz and the Cultivation of Virtue (University of Chicago Press, 2006) Reckoning with Matter: Calculating Machines, Innovation, and Thinking about Thinking from Pascal to Babbage (University of Chicago Press, 2016) How Data Happened (forthcoming from Norton,&hellip;",
-            "content_html": "\n  <p>\n    \n  </p>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://matthewljones.github.io/nescioquid/media/posts/7/gallery/GLSR_cover.jpg\" data-size=\"432x645\">\n        <img loading=\"lazy\" src=\"https://matthewljones.github.io/nescioquid/media/posts/7/gallery/GLSR_cover-thumbnail.jpg\" height=\"645\" width=\"432\" alt=\"\" >\n      </a>\n      <figcaption>Good Life in the Scientific Revolution</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://matthewljones.github.io/nescioquid/media/posts/7/gallery/Reckoning_cover.jpg\" data-size=\"860x1298\">\n        <img loading=\"lazy\" src=\"https://matthewljones.github.io/nescioquid/media/posts/7/gallery/Reckoning_cover-thumbnail.jpg\" height=\"1087\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Reckoning With Matter</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://matthewljones.github.io/nescioquid/media/posts/7/gallery/howdatahappenedcover.jpg\" data-size=\"1877x2788\">\n        <img loading=\"lazy\" src=\"https://matthewljones.github.io/nescioquid/media/posts/7/gallery/howdatahappenedcover-thumbnail.jpg\" height=\"1069\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>How Data Happened</figcaption>\n    </figure>\n    </div>\n  </div>\n<div><p><a href=\"https://press.uchicago.edu/ucp/books/book/chicago/G/bo3793367.html\"><em>The Good Life in the Scientific Revolution: Descartes, Pascal, Leibniz and the Cultivation of Virtue</em> (University of Chicago Press, 2006)</a></p>\n<p><a href=\"https://www.amazon.com/Reckoning-Matter-Calculating-Machines-Innovation/dp/022641146X\"><em>Reckoning with Matter:</em> <em>Calculating Machines, Innovation, and Thinking about Thinking</em> <em>from Pascal to Babbage</em> (University of Chicago Press, 2016)</a></p>\n<p><em><a href=\"https://wwnorton.com/books/how-data-happened\">How Data Happened</a></em> (forthcoming from Norton, 2023) (with <a href=\"http://datascience.columbia.edu/chris-h-wiggins\">Chris Wiggins</a>)</p>\n\n</div>",
-            "image": "https://matthewljones.github.io/nescioquid/media/posts/7/Image00059-Large.jpeg",
+            "content_html": "\n  <p>\n    \n  </p>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/7/gallery/GLSR_cover.jpg\" data-size=\"432x645\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/7/gallery/GLSR_cover-thumbnail.jpg\" height=\"645\" width=\"432\" alt=\"\" >\n      </a>\n      <figcaption>Good Life in the Scientific Revolution</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/7/gallery/Reckoning_cover.jpg\" data-size=\"860x1298\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/7/gallery/Reckoning_cover-thumbnail.jpg\" height=\"1087\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Reckoning With Matter</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/7/gallery/howdatahappenedcover.jpg\" data-size=\"1877x2788\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/7/gallery/howdatahappenedcover-thumbnail.jpg\" height=\"1069\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>How Data Happened</figcaption>\n    </figure>\n    </div>\n  </div>\n<div><p><a href=\"https://press.uchicago.edu/ucp/books/book/chicago/G/bo3793367.html\"><em>The Good Life in the Scientific Revolution: Descartes, Pascal, Leibniz and the Cultivation of Virtue</em> (University of Chicago Press, 2006)</a></p>\n<p><a href=\"https://www.amazon.com/Reckoning-Matter-Calculating-Machines-Innovation/dp/022641146X\"><em>Reckoning with Matter:</em> <em>Calculating Machines, Innovation, and Thinking about Thinking</em> <em>from Pascal to Babbage</em> (University of Chicago Press, 2016)</a></p>\n<p><em><a href=\"https://wwnorton.com/books/how-data-happened\">How Data Happened</a></em> (forthcoming from Norton, 2023) (with <a href=\"http://datascience.columbia.edu/chris-h-wiggins\">Chris Wiggins</a>)</p>\n\n</div>",
+            "image": "https://www.nescioquid.org/media/posts/7/Image00059-Large.jpeg",
             "author": {
                 "name": "Matthew L. Jones"
             },
@@ -55,12 +55,12 @@
             "date_modified": "2023-01-27T21:47:06-05:00"
         },
         {
-            "id": "https://matthewljones.github.io/nescioquid/contacts.html",
-            "url": "https://matthewljones.github.io/nescioquid/contacts.html",
+            "id": "https://www.nescioquid.org/contacts.html",
+            "url": "https://www.nescioquid.org/contacts.html",
             "title": "About",
             "summary": "Matthew L. Jones is James R. Barker Professor of Contemporary Civilization in the Department of History, Columbia University, New York. He will be moving to Princeton University in 2023. In 2023, Norton is publishing his How Data Happened: A History from the Age of Reason&hellip;",
             "content_html": "<p><strong>Matthew L. Jones</strong> is James R. Barker Professor of Contemporary Civilization in the Department of History, Columbia University, New York. He will be moving to Princeton University in 2023. In 2023, Norton is publishing his <em>How Data Happened: A History from the Age of Reason to the Age of Algorithms</em>, written with Chris Wiggins. He is completing a book, <em>Great Exploitations</em> on state surveillance of communications and information warfare. He has published two books previously, <em>Reckoning with Matter: Calculating Machines, Innovation, and Thinking about Thinking from Pascal to Babbage</em> and <em>The Good Life in the Scientific Revolution: Descartes, Pascal, Leibniz and the Cultivation of Virtue</em> (both with Chicago). The Mellon Foundation, the Guggenheim Foundation, and the National Science Foundation have funded his research and teaching.</p>\n<p><a href=\"https://mastodon.social/@nescioquid\">mastodon.social/@nescioquid</a> </p>\n<p><a href=\"https://twitter.com/nescioquid\">twitter</a></p>\n<p><a href=\"https://github.com/matthewljones\">Github</a></p>\n<h4 id=\"address\">Address</h4>\n<p><a href=\"http://www.columbia.edu/cu/history\">Department of History</a></p>\n<p><a href=\"http://www.columbia.edu\">Columbia University</a></p>\n<p>514 Fayerweather Hall</p>\n<p><a href=\"http://maps.google.com/maps?f=q&amp;hl=en&amp;q=1180+Amsterdam+Ave,+New+York,+NY+10027&amp;ie=UTF8&amp;om=1&amp;z=18&amp;ll=40.808324,-73.960133&amp;spn=0.002002,0.005407&amp;t=k&amp;iwloc=A\">1180 Amsterdam Ave.</a></p>\n<p>MC2513</p>\n<p>New York, NY 10027</p>\n<p><a href=\"mailto:mj340@columbia.edu\">Email-Columbia</a>\n<a href=\"mailto:mjones@nescioquid.edu\">Email</a></p>\n",
-            "image": "https://matthewljones.github.io/nescioquid/media/posts/6/RR_12333.jpg",
+            "image": "https://www.nescioquid.org/media/posts/6/RR_12333.jpg",
             "author": {
                 "name": "Matthew L. Jones"
             },
@@ -70,12 +70,12 @@
             "date_modified": "2023-01-26T23:42:21-05:00"
         },
         {
-            "id": "https://matthewljones.github.io/nescioquid/papers.html",
-            "url": "https://matthewljones.github.io/nescioquid/papers.html",
+            "id": "https://www.nescioquid.org/papers.html",
+            "url": "https://www.nescioquid.org/papers.html",
             "title": "Papers",
             "summary": "“Social experts within and without: social epistemologies and the Netflix competition in the making of machine learning,” Social Studies of Science (under review) “Users gone astray: spreadsheet charts, junky graphics and statistical knowledge,” Osiris Code and Craft volume (forthcoming). “Decision trees, random forests, and the&hellip;",
             "content_html": "<p>“Social experts within and without: social epistemologies and the Netflix competition in the making of machine learning,” <em>Social Studies of Science</em> (under review)</p>\n<p>“Users gone astray: spreadsheet charts, junky graphics and statistical knowledge,” <em>Osiris</em> Code and Craft volume (forthcoming).</p>\n<p>“Decision trees, random forests, and the genealogy of the black box,” <em>Algorithmic Modernity: Mechanizing Thought and Action, 1500-2000</em>, Massimo Mazzotti and Morgan Ames, ed. (Oxford, forthcoming).</p>\n<p>“Programming,” in <em>Information: A Historical Companion.</em> Ann Blair, Paul Duguid, Anja Goeing, Anthony Grafton, eds. (Princeton University Press, 2020), 703-708.</p>\n<p>“Creating Uncertainty, Casting Doubt: US Intelligence Leaks from Intelligence Reform to Spyware for Sale,” in <em>Exposing Secrets: The Forgotten History of U.S. National Security Whistleblowing and the Challenge of Dissent</em>, Kaetan Mistry and Hannah Gurman, eds. (Columbia University Press, 2019), 243-270.</p>\n<p><a href=\"http://www.columbia.edu/~mj340/HSNS4805_12_Jones.pdf\">“How We Became Instrumentalists (Again): Data Positivism since World War II.”</a> <em>Historical Studies in the Natural Sciences</em> 48, no. 5 (November 1, 2018): 673–84.</p>\n<p><a href=\"http://limn.it/the-spy-who-pwned-me/\">The spy who pwned me</a><em>, Limn</em>, edd. Chris Kelty and Biella Coleman, Issue 8.</p>\n<p>“Calculating Machine” in Maria-Rosa Antognazza, ed. <em>Oxford Handbook of Leibniz</em> (Oxford, 2018)</p>\n<p>“Calculating Devices and Computers,” <em>Companion to the History of Science</em>, ed. Bernie Lightman (Wiley, 2016) <a href=\"Jones_calc_comp_preprint.pdf\">Preprint</a></p>\n<p><a href=\"http://www.columbia.edu/~mj340/jones_2017_querying.pdf\">“Querying the Archive: Database Mining from Apriori to Page-Rank,”</a><a href=\"http://press.uchicago.edu/ucp/books/book/chicago/S/bo25231630.html\"><em>Science in the Archive</em></a>, Lorraine Daston, ed. (University of Chicago Press, 2017) <a href=\"Jones_archives_preprint.pdf\">Preprint</a></p>\n<p>“Data and Hubris” in Rachel Schutt and Cathy O’Neill, eds. <em>Doing Data Science</em> (O’Reilly, 2014)</p>\n<p>“Reason, Calculating Machines and Efficient Causation” in Tad Schmaltz, ed. <em>Efficient Causation: The History of a Concept</em> (Oxford, 2014)</p>\n<p>“Space, Evidence, and the Authority of Mathematics in the Eighteenth Century” in Aaron Garrett, ed. <em>Routledge Companion to Eighteenth-Century Philosophy</em> (Routledge, 2014)</p>\n<p>“Improvement for Profit: Calculating Machines and the Prehistory of Intellectual Property,” Mario Biagioli and Jessica Riskin, eds., <em>Nature Engaged: Science in Practice from the Renaissance to the Present</em> (Palgrave-MacMillan, 2012)</p>\n<p><a href=\"http://www.sciencemag.org/cgi/rapidpdf/333/6048/1382?ijkey=mfrgKdepAV7Sk&amp;keytype=ref&amp;siteid=sci\">“d(scientist)/dt,”</a> <em>Science</em> 333(2011):1382-3. (Review of Peter Harrison, Ronald Numbers and Michael H. Shank, eds. <em>Wrestling with Nature: From Omens to Science</em> [Chicago: University of Chicago Press, 2011]).</p>\n<p><a href=\"http://dx.doi.org/10.1007/s11016-011-9597-2\">Essay review</a> of Lorraine Daston and Peter Galison, <em>Objectivity,</em> (2007), <em>Metascience</em>, 21 (2012).</p>\n<p><a href=\"http://www.h-france.net/vol11reviews/vol11no229Jones.pdf\">Essay review</a> of Emilie Du Châtelet, <em>Selected Philosophical and Scientific Writings.</em> Bour and Zinsser, trans. (2009) <em>H-France</em> 11(2011), No. 229.</p>\n<p><a href=\"http://journals.cambridge.org/repo_A79TfSIV\">“Matters of Fact”</a> [Essay review of Harold Cook, <em>Matters of Exchange</em> (Yale 2007)] <em>Modern Intellectual History</em> 7,3 (2010): 629-642.</p>\n<p>“Three Errors about Indifference: Pascal on the Vacuum, Sociability and Moral Freedom,” <em>Romance Quarterly</em> 50(2003):99-120.</p>\n<p>“Writing and <em>Sentiment</em>: Blaise Pascal, the Vacuum and the _Pensées,_”  <em>Studies in History and Philosophy of Science</em>, 32(2001):139-181.</p>\n<p>“Descartes’ Geometry as Spiritual Exercise,” <em>Critical Inquiry</em>, 28(2001): 40-71; reprinted in Bill Brown, ed. <em>Things</em>. (Chicago: University of Chicago Press, 2004): 40-71.</p>\n",
-            "image": "https://matthewljones.github.io/nescioquid/media/posts/5/1318762317421608962-Ek0vLeWWMAIaX8n-2.png",
+            "image": "https://www.nescioquid.org/media/posts/5/1318762317421608962-Ek0vLeWWMAIaX8n-2.png",
             "author": {
                 "name": "Matthew L. Jones"
             },
@@ -85,12 +85,12 @@
             "date_modified": "2023-01-31T21:24:22-05:00"
         },
         {
-            "id": "https://matthewljones.github.io/nescioquid/media.html",
-            "url": "https://matthewljones.github.io/nescioquid/media.html",
+            "id": "https://www.nescioquid.org/media.html",
+            "url": "https://www.nescioquid.org/media.html",
             "title": "Media",
             "summary": "lectures Great Exploitations: Data Mining, Legal Modernization, and the NSA (UC Berkeley) A Brief History of Surveillance State Technology Pitt’s Information Ecosystems Podcast with Sarah Conell “The Ethics of Big Data,” Future Hindsight with Mila Atmos",
             "content_html": "<h2 id=\"lectures\">lectures</h2>\n<p><a href=\"https://youtu.be/Qx4Wupf1okc\">Great Exploitations: Data Mining, Legal Modernization, and the NSA (UC Berkeley)</a></p>\n<p><a href=\"http://livestream.com/internetsociety/F2C2015/videos/79063537\">A Brief History of Surveillance State Technology</a></p>\n<h2 id=\"interviews\">interviews</h2>\n<p>Pitt’s <a href=\"https://podcasts.apple.com/us/podcast/episode-2-matthew-jones/id1488946417?i=1000458864363\">Information Ecosystems Podcast</a> with Sarah Conell</p>\n<p>“The Ethics of Big Data,” <a href=\"https://www.futurehindsight.com/episode/the-ethics-of-big-data-matthew-l-jones/\">Future Hindsight</a> with Mila Atmos</p>\n",
-            "image": "https://matthewljones.github.io/nescioquid/media/posts/4/Ada-Lovelace-lectures-to-crowd-about-difference-engine-in-style-of-Cowboy-bebop.png",
+            "image": "https://www.nescioquid.org/media/posts/4/Ada-Lovelace-lectures-to-crowd-about-difference-engine-in-style-of-Cowboy-bebop.png",
             "author": {
                 "name": "Matthew L. Jones"
             },
@@ -100,12 +100,12 @@
             "date_modified": "2023-01-24T23:33:42-05:00"
         },
         {
-            "id": "https://matthewljones.github.io/nescioquid/teaching.html",
-            "url": "https://matthewljones.github.io/nescioquid/teaching.html",
+            "id": "https://www.nescioquid.org/teaching.html",
+            "url": "https://www.nescioquid.org/teaching.html",
             "title": "Teaching",
             "summary": "Columbia Lecture The Scientific Revolution in Western Europe, 1500-1750 The European Renaissance, 1400-1600: an introduction Computing in Context data: past, present, future (with Chris Wiggins) Introduction to Contemporary Civilization in the West Science Across Cultures [Global Core] Civilizing Processes, 1500-1750 Subjects and Objects of Renaissance&hellip;",
             "content_html": "<h3 id=\"columbia\">Columbia</h3>\n<h4 id=\"lecture\">Lecture</h4>\n<p>The Scientific Revolution in Western Europe, 1500-1750</p>\n<p>The European Renaissance, 1400-1600: an introduction</p>\n<p><a href=\"https://github.com/matthewljones/computingincontext\">Computing in Context</a></p>\n<p><a href=\"https://github.com/data-ppf/data-ppf.github.io/wiki/Syllabus\">data: past, present, future</a> (with Chris Wiggins) </p>\n<h4 id=\"seminar\">Seminar</h4>\n<p>Introduction to Contemporary Civilization in the West</p>\n<p>Science Across Cultures [<a href=\"http://www.college.columbia.edu/bulletin/core/mc.php\">Global Core</a>]</p>\n<p>Civilizing Processes, 1500-1750</p>\n<p>Subjects and Objects of Renaissance Knowledge</p>\n<p>Senior Thesis Seminar</p>\n<h4 id=\"graduate\">Graduate</h4>\n<p>Information—Computing—Infrastructure</p>\n<p><a href=\"https://docs.google.com/document/d/1rEqlNfLPqPDQVXWYKcKTCol9aXSZT6PPNx_rpaXM7Ks/edit?usp=sharing\">Introduction to Historical Practice in the Age of the Pandemic</a></p>\n<p>Introduction to Historical Interpretation and Methods</p>\n<p>Topics in Historiography and the Philosophy of History</p>\n<p>Topics in Early Modern European Cultural and Intellectual History: Institutions of Knowledge and Belief</p>\n<p>Methods in History of Science</p>\n<p>Foucault for Historians (with Samuel Moyn)</p>\n<h4 id=\"professional-schools\">Professional Schools</h4>\n<p>Data and databases, with <a href=\"http://www.decontextualize.com/\">Allison Parrish</a>, Columbia Journalism Lede Program</p>\n",
-            "image": "https://matthewljones.github.io/nescioquid/media/posts/3/Screen-Shot-2022-06-21-at-2.25.19-PM.png",
+            "image": "https://www.nescioquid.org/media/posts/3/Screen-Shot-2022-06-21-at-2.25.19-PM.png",
             "author": {
                 "name": "Matthew L. Jones"
             },
@@ -115,12 +115,12 @@
             "date_modified": "2023-01-31T21:24:13-05:00"
         },
         {
-            "id": "https://matthewljones.github.io/nescioquid/main.html",
-            "url": "https://matthewljones.github.io/nescioquid/main.html",
+            "id": "https://www.nescioquid.org/main.html",
+            "url": "https://www.nescioquid.org/main.html",
             "title": "Matthew L. Jones",
             "summary": "history of science, technology, computing",
             "content_html": "<h2 id=\"history-of-science-technology-computing\">history of science, technology, computing</h2>\n",
-            "image": "https://matthewljones.github.io/nescioquid/media/posts/1/1092854966107156481-DyqZhyFUwAAohL1.jpeg",
+            "image": "https://www.nescioquid.org/media/posts/1/1092854966107156481-DyqZhyFUwAAohL1.jpeg",
             "author": {
                 "name": "Matthew L. Jones"
             },
