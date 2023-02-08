@@ -3,7 +3,7 @@
     <title>Matthew L. Jones</title>
     <link href="https://www.nescioquid.org/feed.xml" rel="self" />
     <link href="https://www.nescioquid.org" />
-    <updated>2023-02-02T12:57:48-05:00</updated>
+    <updated>2023-02-08T10:24:22-05:00</updated>
     <author>
         <name>Matthew L. Jones</name>
     </author>
@@ -180,7 +180,7 @@
         <id>https://www.nescioquid.org/contacts.html</id>
         <media:content url="https://www.nescioquid.org/media/posts/6/RR_12333.jpg" medium="image" />
 
-        <updated>2023-02-01T21:35:15-05:00</updated>
+        <updated>2023-02-08T10:24:22-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.nescioquid.org/media/posts/6/RR_12333.jpg" alt="" />
@@ -203,6 +203,8 @@
 <p>New York, NY 10027</p>
 <p><a href="mailto:mj340@columbia.edu">Columbia Email</a></p>
 <p><a href="mailto:mjones@nescioquid.edu">Email</a></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.nescioquid.org/media/posts/6/Jones_headshot.jpg" alt="Headshot" width="378" height="504"  sizes="100vw" srcset="https://www.nescioquid.org/media/posts/6/responsive/Jones_headshot-xs.jpg 300w ,https://www.nescioquid.org/media/posts/6/responsive/Jones_headshot-sm.jpg 480w ,https://www.nescioquid.org/media/posts/6/responsive/Jones_headshot-md.jpg 768w ,https://www.nescioquid.org/media/posts/6/responsive/Jones_headshot-lg.jpg 1024w ,https://www.nescioquid.org/media/posts/6/responsive/Jones_headshot-xl.jpg 1360w ,https://www.nescioquid.org/media/posts/6/responsive/Jones_headshot-2xl.jpg 1600w"></figure>
+Photo credit: Elizabeth H. Lee</p>
 
             ]]>
         </content>
