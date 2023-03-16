@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.nescioquid.org/steering-machine-learning-into-artificial-intelligence.html",
+            "url": "https://www.nescioquid.org/steering-machine-learning-into-artificial-intelligence.html",
+            "title": "Steering Machine Learning into Artificial Intelligence",
+            "summary": "What funding arrangements and organizations propelled the field of machine learning, now rebranded artificial intelligence, to its centrality today? How did these diverse funders and practitioners shape protocols for reward and promotion of diverse research values? How did the relationship of corporate, non-profit, and governmental&hellip;",
+            "content_html": "\n  <p>\n    What funding arrangements and organizations propelled the field of machine learning, now rebranded artificial intelligence, to its centrality today? How did these diverse funders and practitioners shape protocols for reward and promotion of diverse research values? How did the relationship of corporate, non-profit, and governmental funding shift from the 1970s to the present? How—and why—has the field remained strongly committed to academic and open-source values while simultaneously dominated by enormous corporate funding—indeed, by corporations capable of hiring entire academic departments? How are narratives about the current success, if not domination, of machine learning being used to legitimate changes in the organization and mandates of funding for other sciences and engineering activities?\n  </p>\n\n  <p>\n    This project aims to begin empirically answering these questions through the examination of corporate, academic, foundation, and governmental archives, both civilian and military. Alongside tracking flows of funds and explicit priorities of funders, the project will chart the movement of protocols of publication and publicity between academia and the corporate world, continuities and disruptions around intellectual property and trade secrets, conditions, and challenges around access to data, code, computer resources, and finally the sociologies of science and engineering implicitly and explicitly built into processes of funding and continuing support.&nbsp;<br>\n  </p>",
+            "author": {
+                "name": "Matthew L. Jones"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-16T15:18:04-04:00",
+            "date_modified": "2023-03-16T15:18:04-04:00"
+        },
+        {
             "id": "https://www.nescioquid.org/how-data-happened.html",
             "url": "https://www.nescioquid.org/how-data-happened.html",
             "title": "How Data Happened",
