@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-03-17T03:18:04+08:00",
-            "date_modified": "2023-03-17T04:30:46+08:00"
+            "date_published": "2023-03-16T15:18:04-04:00",
+            "date_modified": "2023-03-16T16:30:46-04:00"
         },
         {
             "id": "https://www.nescioquid.org/how-data-happened.html",
@@ -35,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-01-26T01:42:07+08:00",
-            "date_modified": "2023-04-02T01:12:02+08:00"
+            "date_published": "2023-01-25T12:42:07-05:00",
+            "date_modified": "2023-04-01T13:12:02-04:00"
         },
         {
             "id": "https://www.nescioquid.org/collaboration.html",
@@ -50,23 +50,23 @@
             },
             "tags": [
             ],
-            "date_published": "2023-01-25T10:08:06+08:00",
-            "date_modified": "2023-04-07T10:37:35+08:00"
+            "date_published": "2023-01-24T21:08:06-05:00",
+            "date_modified": "2023-04-06T22:37:35-04:00"
         },
         {
             "id": "https://www.nescioquid.org/books.html",
             "url": "https://www.nescioquid.org/books.html",
             "title": "Books",
-            "summary": "The Good Life in the Scientific Revolution: Descartes, Pascal, Leibniz and the Cultivation of Virtue (University of Chicago Press, 2006). Reckoning with Matter: Calculating, Innovation, and Thinking about Thinking from Pascal to Babbage (University of Chicago Press, 2016). How Data Happened (forthcoming from Norton, 2023)&hellip;",
-            "content_html": "\n  <p>\n    \n  </p>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/7/gallery/GLSR_cover.jpg\" data-size=\"432x645\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/7/gallery/GLSR_cover-thumbnail.jpg\" height=\"645\" width=\"432\" alt=\"\" >\n      </a>\n      <figcaption>Good Life in the Scientific Revolution</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/7/gallery/Reckoning_cover.jpg\" data-size=\"860x1298\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/7/gallery/Reckoning_cover-thumbnail.jpg\" height=\"1087\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Reckoning With Matter</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/7/gallery/howdatahappenedcover.jpg\" data-size=\"1877x2788\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/7/gallery/howdatahappenedcover-thumbnail.jpg\" height=\"1069\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>How Data Happened</figcaption>\n    </figure>\n    </div>\n  </div>\n<div><p><a href=\"https://press.uchicago.edu/ucp/books/book/chicago/G/bo3793367.html\"><em>The Good Life in the Scientific Revolution: Descartes, Pascal, Leibniz and the Cultivation of Virtue</em> (University of Chicago Press, 2006).</a></p>\n<p><a href=\"https://press.uchicago.edu/ucp/books/book/chicago/R/bo24836963.html\"></em>Reckoning with Matter: Calculating, Innovation, and Thinking about Thinking from Pascal to Babbage (University of Chicago Press, 2016).</a></p>\n<p><em><a href=\"https://wwnorton.com/books/how-data-happened\">How Data Happened</a></em> (forthcoming from Norton, 2023) (with <a href=\"http://datascience.columbia.edu/chris-h-wiggins\">Chris Wiggins</a>).</p>\n\n</div>",
+            "summary": "The Good Life in the Scientific Revolution: Descartes, Pascal, Leibniz and the Cultivation of Virtue (University of Chicago Press, 2006). Reckoning with Matter: Calculating, Innovation, and Thinking about Thinking from Pascal to Babbage (University of Chicago Press, 2016). How Data Happened (Norton, 2023) (with Chris&hellip;",
+            "content_html": "\n  <p>\n    \n  </p>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/7/gallery/GLSR_cover.jpg\" data-size=\"432x645\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/7/gallery/GLSR_cover-thumbnail.jpg\" height=\"645\" width=\"432\" alt=\"\" >\n      </a>\n      <figcaption>Good Life in the Scientific Revolution</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/7/gallery/Reckoning_cover.jpg\" data-size=\"860x1298\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/7/gallery/Reckoning_cover-thumbnail.jpg\" height=\"1087\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>Reckoning With Matter</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://www.nescioquid.org/media/posts/7/gallery/howdatahappenedcover.jpg\" data-size=\"1877x2788\">\n        <img loading=\"lazy\" src=\"https://www.nescioquid.org/media/posts/7/gallery/howdatahappenedcover-thumbnail.jpg\" height=\"1069\" width=\"720\" alt=\"\" >\n      </a>\n      <figcaption>How Data Happened</figcaption>\n    </figure>\n    </div>\n  </div>\n<div><p><a href=\"https://press.uchicago.edu/ucp/books/book/chicago/G/bo3793367.html\"><em>The Good Life in the Scientific Revolution: Descartes, Pascal, Leibniz and the Cultivation of Virtue</em> (University of Chicago Press, 2006).</a></p>\n<p><a href=\"https://press.uchicago.edu/ucp/books/book/chicago/R/bo24836963.html\"></em>Reckoning with Matter: Calculating, Innovation, and Thinking about Thinking from Pascal to Babbage (University of Chicago Press, 2016).</a></p>\n<p><em><a href=\"https://wwnorton.com/books/how-data-happened\">How Data Happened</a></em> (Norton, 2023) (with <a href=\"http://datascience.columbia.edu/chris-h-wiggins\">Chris Wiggins</a>).</p>\n\n</div>",
             "image": "https://www.nescioquid.org/media/posts/7/Image00059-Large.jpeg",
             "author": {
                 "name": "Matthew L. Jones"
             },
             "tags": [
             ],
-            "date_published": "2023-01-25T07:26:58+08:00",
-            "date_modified": "2023-02-03T01:57:48+08:00"
+            "date_published": "2023-01-24T18:26:58-05:00",
+            "date_modified": "2023-06-04T10:58:20-04:00"
         },
         {
             "id": "https://www.nescioquid.org/contacts.html",
@@ -80,8 +80,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-01-25T05:17:34+08:00",
-            "date_modified": "2023-02-08T23:24:22+08:00"
+            "date_published": "2023-01-24T16:17:34-05:00",
+            "date_modified": "2023-02-08T10:24:22-05:00"
         },
         {
             "id": "https://www.nescioquid.org/papers.html",
@@ -95,8 +95,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-01-25T05:14:24+08:00",
-            "date_modified": "2023-03-22T23:12:35+08:00"
+            "date_published": "2023-01-24T16:14:24-05:00",
+            "date_modified": "2023-03-22T11:12:35-04:00"
         },
         {
             "id": "https://www.nescioquid.org/media.html",
@@ -110,8 +110,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-01-25T04:39:23+08:00",
-            "date_modified": "2023-01-25T12:33:42+08:00"
+            "date_published": "2023-01-24T15:39:23-05:00",
+            "date_modified": "2023-01-24T23:33:42-05:00"
         },
         {
             "id": "https://www.nescioquid.org/teaching.html",
@@ -125,8 +125,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-01-25T04:38:22+08:00",
-            "date_modified": "2023-02-02T06:09:28+08:00"
+            "date_published": "2023-01-24T15:38:22-05:00",
+            "date_modified": "2023-02-01T17:09:28-05:00"
         },
         {
             "id": "https://www.nescioquid.org/main.html",
@@ -140,8 +140,8 @@
             },
             "tags": [
             ],
-            "date_published": "2023-01-25T03:41:43+08:00",
-            "date_modified": "2023-01-25T10:13:28+08:00"
+            "date_published": "2023-01-24T14:41:43-05:00",
+            "date_modified": "2023-01-24T21:13:28-05:00"
         }
     ]
 }
